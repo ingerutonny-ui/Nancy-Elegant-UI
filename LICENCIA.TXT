@@ -1,0 +1,6 @@
+LICENCIA DE USO COMERCIAL - NANCY ELEGANT UI
+--------------------------------------------
+Este código es propiedad intelectual de Tonny Alarcón.
+Se otorga al comprador el derecho de usar, modificar y desplegar 
+este Dashboard para proyectos personales o de clientes.
+Prohibida su reventa directa como plantilla sin modificaciones.
